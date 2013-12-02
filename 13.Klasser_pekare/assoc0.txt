@@ -1,0 +1,19 @@
+Körningsexempel för assoc1.cpp
+(assoc1.txt)
+----------------------------
+---Följande personer finns:
+Kalle Anka äger Lada
+Joakim von Anka äger Rolls Royce
+
+---Följande bilar finns:
+Lada
+Rolls Royce
+Volvo
+
+---Kalle säljer sin bil till ngn.
+---Kalle köper bil Volvo.
+Kalle Anka äger Volvo
+
+---Joakim säljer sin bil till Kalle.
+Kalle Anka äger Rolls Royce
+Joakim von Anka äger ingen bil.

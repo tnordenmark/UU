@@ -1,0 +1,6 @@
+Körning till villa0_a.cpp
+(villa0_a.txt)
+-----------------------
+---Skriv info om villorna
+ Adress = Ekvägen 123, pris = 1000000
+ Adress = Alvägen 12, pris = 1200000

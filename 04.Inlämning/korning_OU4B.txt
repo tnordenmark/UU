@@ -1,0 +1,67 @@
+﻿
+Obligatorisk uppgift 4 - deluppgift B
+
+Programkörning med testdata 1 och 5
+
+Obs! Uträkningen av antalet * i denna programkörning utförs genom s.k. 
+trunkering, dvs decimalerna kastas bort. Exvis 0.8% motsvarar en * och 
+1.7% % motsvarar 2 st *. Det går lika bra att använda avrundning som då 
+skulle ge 2 st * resp 3 st *.  Själva formen på histogrammet för de båda 
+alternativen bör dock överensstämma väl. 
+
+=================================
+Testdata 1
+=================================
+
+Ange filnamn:
+doyle.txt
+
+Resultat för bokstäverna A-Z
+
+Totala antalet bokstäver: 12885
+engelska  har kvadratsumma= 1.75771
+franska  har kvadratsumma= 96.1956
+svenska  har kvadratsumma= 73.3371
+tyska  har kvadratsumma= 116.072
+Det är mest troligt att språket är engelska.
+
+Bokstavsfördelning:
+
+
+
+A ****************
+B **
+C ******
+D *******
+E ************************
+F ****
+G **
+H ************
+I ***************
+J 
+K *
+L *******
+M *****
+N ************
+O ***************
+P ***
+Q 
+R ***********
+S ************
+T ******************
+U *****
+V **
+W ****
+X 
+Y ****
+Z 
+
+=================================
+Testdata 5
+=================================
+
+Ange filnamn: 
+torsten.txt
+Det finns ingen fil med namnet torsten.txt
+
+

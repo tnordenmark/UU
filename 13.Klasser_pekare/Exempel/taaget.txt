@@ -1,0 +1,16 @@
+Körningsexempel:
+Kopplar ej Restaurangvagn med idnr = 4002 och vikt = 15000
+Nu har tåget totalvagnvikt = 110000
+Taagnamn = RS2000 nr.12 med max dragvikt = 120000
+Följande 3 st vagnar finns i tåget:
+Godsvagn med idnr = 3003 och vikt = 70000
+Personvagn klass 1 med idnr = 1001 och vikt = 25000
+Restaurangvagn med idnr = 4002 och vikt = 15000
+Hej! Vilken vagn skall bort?
+1
+Vagnen finns ej!
+Taagnamn = RS2000 nr.12 med max dragvikt = 120000
+Följande 3 st vagnar finns i tåget:
+Godsvagn med idnr = 3003 och vikt = 70000
+Personvagn klass 1 med idnr = 1001 och vikt = 25000
+Restaurangvagn med idnr = 4002 och vikt = 15000

@@ -1,0 +1,10 @@
+050615	transp	Eva	6000	5	Bosse	Kristin	Paul	Torsten	Stina	
+050721	mat	Eva	300	2	Bosse	Kristin	
+050721	mat	Paul	400	2	Torsten	Stina	
+050721	transp	Bosse	5000	3	Eva	Kristin	Paul	
+050721	transp	Stina	5000	1	Torsten	
+050722	boende	Kristin	200	1	Eva	
+050722	mat	Eva	300	2	Kristin	Bosse	
+050723	mat	Torsten	300	2	Paul	Stina	
+050724	mat	Paul	200	1	Stina	
+050725	transp	Eva	600	3	Bosse	Kristin	Paul	

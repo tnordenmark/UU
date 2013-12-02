@@ -1,0 +1,26 @@
+// Filnamn : .../Account4/Account.cc
+
+#include <iostream>
+#include <string>
+#include "Account.h"
+using namespace std;
+
+
+Account::Account() {
+  balance = 0;
+  name    = "Arne Anonym";
+  cout << "Hello default: " << name 
+       << "  "  << balance << endl;
+}
+
+Account::Account(string n, double b) {
+  balance = b;
+  name    = n;
+  cout << "Hello : " << name 
+       << "  "  << balance << endl;
+}
+
+Account::~Account() {
+  cout << "Bye-bye " << name 
+       << " med saldot: "  << balance << endl;
+}

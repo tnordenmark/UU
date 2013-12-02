@@ -1,0 +1,19 @@
+magiker
+21:52:34 ah ja precis
+21:52:43 den vet inte hur den ska skriva ut ett Transaktions-objekt
+21:53:00 du får köra cout << trans[i].getDate, osv
+21:53:24 eller om du lägger en "print()" i Transaktion
+21:53:37 så kanske det går köra cout << trans[i]::print()
+21:53:43 som skriver ut sina egna private-attribuet
+
+skurk
+21:53:45 som bara skriver ut t.datum, t.namn osv?
+
+magiker
+21:53:57 ja previs
+21:54:04 den har en array av objekten Transaktion
+21:54:09 men varje objekt har privata attribut
+21:54:28 som endast går att nå inifrån Transaktion (i säg en ::print) eller via getters
+21:54:52 jag skulle väl rösta på att göra en ny print() i Transaktion som löser det
+21:55:05 som returnerar en rad textsträng tillbaka till TransaktionsLista
+21:55:20 men det är hugget som stucket

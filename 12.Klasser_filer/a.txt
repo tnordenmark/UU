@@ -1,0 +1,5 @@
+Personen Nisse Anka med ålder 23
+Personen Olle Korp med ålder 34
+Personen Allan Jönsson med ålder 21
+Personen Stina Salomonsson med ålder 45
+Personen Oskar Oskarsson med ålder 67

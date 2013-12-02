@@ -1,0 +1,10 @@
+Hello överlagrad 5
+Hello default 0
+Hello överlagrad 2
+Hello kopiering: ny längd: 2
+Hello kopiering: ny längd: 0
+arr1: Antal element är 5:       -1      -1      -1      -1      -1
+arr2: Antal element är 0.
+arr3: Antal element är 2:       -99     -99
+arr4: Antal element är 2:       -99     -99
+arr5: Antal element är 0.

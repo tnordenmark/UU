@@ -1,0 +1,7 @@
+Körning för villa0_b.cpp
+(villa0_b.txt)
+----------------------------
+---Skriv info om villorna
+Villan fanns ej!
+ Adress = Alvägen 12, pris = 1200000
+

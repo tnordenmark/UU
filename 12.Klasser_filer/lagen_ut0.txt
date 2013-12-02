@@ -1,0 +1,4 @@
+Kök med yta: 20 Badrum med yta: 12
+Antal rum : 3 med ytor:  20 10 10
+Kök med yta: 12 Badrum med yta: 12
+Antal rum : 2 med ytor:  15 10

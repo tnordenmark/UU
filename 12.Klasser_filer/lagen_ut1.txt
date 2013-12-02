@@ -1,0 +1,6 @@
+ Kök:  Rum med yta = 20 Badrum:  Rum med yta = 12
+ Antal rum : 3:
+ Rum med yta = 20 Rum med yta = 10 Rum med yta = 10
+ Kök:  Rum med yta = 12 Badrum:  Rum med yta = 12
+ Antal rum : 2:
+ Rum med yta = 15 Rum med yta = 10

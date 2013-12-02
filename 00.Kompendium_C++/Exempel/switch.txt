@@ -1,0 +1,29 @@
+
+    switch (month) {
+    case 11: case 4: case 6: case 9: 
+      days = 30;
+      break;
+    case 2:
+      days = 28;
+      break;
+    default:
+      days = 31;
+    }
+ 
+
+Syntax för switch-satsen:
+
+switch (uttryck av heltalstyp ) {
+   case-lista
+      satser
+   case-lista 
+      satser
+   ...
+     default:
+      satser
+}
+
+Där en case-lista har följande utseende:
+
+case värde: case värde: ... case värde:
+

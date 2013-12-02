@@ -1,0 +1,12 @@
+Körningsexempel för filen vill1.cpp
+(villa1.txt)
+--------------------------
+Hur många villor?
+300
+Hur många villor?
+-4
+Hur många villor?
+8
+---Nu säljer vi första villan
+---Objekt nr 2  Adress = Alvägen 12, pris = 1200000
+---Objekt nr 8  Adress = Hävelvägen 7, pris = 130000
